@@ -3,18 +3,19 @@
     "schema_version": "1.3",
     "publication_date": "2026-05-07",
     "last_update_date": "2026-05-07",
-    "canonical_url": "",
+    "canonical_url": "https://raw.githubusercontent.com/nmartinez-nimeops/sovereignty/refs/heads/main/sovereignty.json",
     "language": "fr"
   },
   "declarant": {
     "type": "individual",
     "name": "Nicolas Martinez",
     "individual_details": {
-      "primary_role_for_sovereignty": "other",
+      "primary_role_for_sovereignty": "decision_maker",
       "given_name": "Nicolas",
       "family_name": "Martinez",
       "professional_role": "CTO / Owner",
-      "country": "France"
+      "country": "France",
+      "affiliated_organization": "NimeOps"
     },
     "public_contact_email": "nmartinez@nimeops.com"
   },
