@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "schema_version": "1.3",
+    "publication_date": "2026-05-07",
+    "last_update_date": "2026-05-07",
+    "canonical_url": "",
+    "language": "fr"
+  },
+  "declarant": {
+    "type": "individual",
+    "name": "Martinez",
+    "individual_details": {
+      "primary_role_for_sovereignty": "other",
+      "given_name": "Nicolas",
+      "family_name": "Martinez",
+      "professional_role": "CTO / Owner",
+      "country": "France"
+    },
+    "public_contact_email": "nmartinez@nimeops.com"
+  },
+  "domains": {
+    "domain_7_assumed_commitments_and_limits": {
+      "explicit_commitments": [
+        {
+          "predefined_template_id": "dev-001-european-forge-new-projects",
+          "category": "preference",
+          "text": "J'utilise déjà exclusivement des forges souveraines, en self-hosted (gitlab et forgejo)",
+          "status": "completed",
+          "horizon_months": 1,
+          "target_date": "2026-05-07"
+        },
+        {
+          "predefined_template_id": "dev-004-recommend-european-alternatives",
+          "category": "communication",
+          "text": "Recommander explicitement des alternatives européennes ou de fondation neutre à vos clients et collègues",
+          "status": "completed",
+          "horizon_months": 1,
+          "target_date": "2026-05-07"
+        }
+      ]
+    }
+  }
+}
